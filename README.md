@@ -20,6 +20,9 @@ Este diagrama representa um processo de análise de dados usando uma base de dad
 
 ### 4. Insights
 - A partir das visualizações apresentadas no dashboard, é possível extrair insights e identificar padrões observados nos dados. Como por exemplo:
+
 -- O aumento de usuários na internet é acompanhada da diminuição da assinatura de telefonia fixa;
+
 -- A Argentina apresenta, históricamente, uma porcentagem de usuários de internet maior que a média da America do Sul;
+
 -- Apenas o Uruguai possui mais usuários de internet do que a Argentina.
